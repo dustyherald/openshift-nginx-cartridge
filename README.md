@@ -8,7 +8,7 @@ This is a forked version of someone elses work from [here](https://github.com/gs
 
 To install this cartridge you use the cartridge reflector from the command line. In the example below a "myapp" directory will be created in the location where the command is run as the git repo where your static web content will live will be cloned there.
 
-	rhc create-app --scaling myapp http://cartreflect-claytondev.rhcloud.com/reflect?github=dustyherald/openshift-nginx-cartridge
+	rhc create-app --scaling myapp http://cartreflect-claytondev.rhcloud.com/reflect?github=sorniva/openshift-nginx-cartridge
 
 
 ### Configuration
